@@ -1,0 +1,112 @@
+body{
+  background-color:rgb(226, 220, 220);
+
+
+}
+
+div{
+  border: 1px solid white;
+  padding :10px;
+  margin: 250px auto;
+  width: 300px;
+  border-radius: 15px;
+  background-color: white ;
+  
+}
+ .otpbox{
+  margin: 10px auto;
+  width: 250px;
+  padding: 15px;
+  border-radius: 5px;
+  margin-left:6px;
+  border-width: 1px;
+  
+ }
+ .Continue{
+  width: 285px;
+  padding: 13px;
+  color: white;
+  background-color: rgb(51, 15, 184);
+  border: none;
+  border-radius: 5px;
+  margin-left:6px;
+
+ }
+ .img1{
+  width: 100%;
+ }
+ .checkh1{
+  text-align: center;
+  margin-bottom: 1px;
+  font-size: 35px;
+ }
+ .email{
+  text-align: center;
+  margin-left: 8px;
+  margin-bottom: 20px;
+  margin-top: 1px;
+  color: rgb(150, 147, 144);
+  font-size: 13px;
+
+ }
+.bye{
+  font-size: 40px;
+}
+
+.homework2{
+  border: 15px solid rgb(255, 252, 252);
+}
+
+p{
+  margin-top: 0px;
+  color: #aaa4a4;
+
+}
+
+.welcome{
+  margin-bottom: 0px;
+}
+.center{
+  text-align: center;
+}
+.work{
+  padding: 10px;
+  width: 250px;
+}
+.personal{
+  padding: 10px;
+  width: 250px;
+ }
+ 
+ .option{
+  display: flex;
+  justify-content: space-between;
+  background-color: #f7f7f7;
+  padding: 10px 10px;
+  margin: 0px 5px 2px ;
+  border-radius: 10px;
+  box-sizing: border-box;
+ }
+
+ .card{
+  text-align: center;
+  border: 1px solid black;
+  width: 700px;
+ }
+ .cardnumber{
+  padding: 10px;
+  flex: 2;
+  border: 2px solid #7f5af0;
+  border-radius: 10px;
+ }
+ .cardinput{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  margin-top: 1px;
+  
+ }
+ .small{
+  flex: 1;
+ }
